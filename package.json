@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple bot written in Discord.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yell0wlife/discord-bot.git"
+  },
+  "author": "yell0wlife",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yell0wlife/discord-bot/issues"
+  },
+  "homepage": "https://github.com/yell0wlife/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
